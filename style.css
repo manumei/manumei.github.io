@@ -7,8 +7,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  flex-direction: column;
 }
 
-.center-text {
+p {
+  margin: 0.5rem 0;
   font-size: 1.5rem;
 }
